@@ -72,6 +72,10 @@
   border-bottom: 1px dotted #77d;
 }
 
+#store .entry form, #store .entry form div {
+display: inline;
+}
+
 #store  .title {
   font-size: 120%;
   font-family: sans-serif;
