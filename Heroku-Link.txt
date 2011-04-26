@@ -2,6 +2,7 @@ http://electric-mountain-144.heroku.com/
 
 Commands:
 
+- git add .
 - git commit -m "Kommentar"
 - git push origin master
 - git push heroku master
