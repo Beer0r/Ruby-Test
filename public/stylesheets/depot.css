@@ -151,7 +151,7 @@ font-size: small;
 }
 
 /* Styles for the cart in the main page */
-#store .cart_title {
+#store .cart_titel {
 font: 120% bold;
 }
 #store .item_price, #store .total_line {
